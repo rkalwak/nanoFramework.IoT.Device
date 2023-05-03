@@ -10,21 +10,21 @@
       },
       "nanoFramework.Iot.Device.CharacterLcd": {
         "type": "Direct",
-        "requested": "[1.1.131, 1.1.131]",
-        "resolved": "1.1.131",
-        "contentHash": "H46a1w+beAYs6Ods7KB1ohgFB4pDjb+McU/Y+GxwtFM51THtXzdR8XbpMGRxkBrAqXDT7wEY/Y6pkXGGktaJvw=="
+        "requested": "[1.1.192, 1.1.192]",
+        "resolved": "1.1.192",
+        "contentHash": "k0VeWgCyrOEZBILeF0T7mDGgDQAnsIZzMyO4qQ3lwN5aJQKJOlj+4p4tbI6wlA3JhQ9iw96Qb2y+YAw8219JBg=="
       },
       "nanoFramework.Iot.Device.Multiplexing": {
         "type": "Direct",
-        "requested": "[1.2.201, 1.2.201]",
-        "resolved": "1.2.201",
-        "contentHash": "YuQk1Iu/NOD2Z9cEn+89EN7KfstTYBO1UyP/EjWFPbao91W3YrWBXZX9BpHDYPcB4UfnI7B0YEVUyLl7wXgDQQ=="
+        "requested": "[1.2.285, 1.2.285]",
+        "resolved": "1.2.285",
+        "contentHash": "c/ZseBxqCz+zDngp3lS+G5mSWGWZ3FEA4s97lW+l5htSY+LWks6HnMzrRCdhWH0HGxnWPz4otroUfpwKv0sOOw=="
       },
       "nanoFramework.Iot.Device.ShiftRegister": {
         "type": "Direct",
-        "requested": "[1.2.202, 1.2.202]",
-        "resolved": "1.2.202",
-        "contentHash": "VbnTQpWQnrcKbj+80u2yYOytcrX4o43RqIUYSNkJHuecYeVrjpEyuT6Kc4X760DjNkztQV8RGCd+vy1WUQDoEQ=="
+        "requested": "[1.2.287, 1.2.287]",
+        "resolved": "1.2.287",
+        "contentHash": "bbSZlD4LHzgEQZ/HpgzT384MEGasflIL/6fCdIseAOhIWs107te3fH9T+KnbWoun0Jrw9ZbJ1bhcL0I7u8FB2Q=="
       },
       "nanoFramework.ResourceManager": {
         "type": "Direct",
@@ -58,9 +58,9 @@
       },
       "nanoFramework.System.Device.I2c": {
         "type": "Direct",
-        "requested": "[1.1.9, 1.1.9]",
-        "resolved": "1.1.9",
-        "contentHash": "ufBbB/mtkaxDrPCP1JfzUmPQkrJaXGSTuOfvRL/gl46ZP+PIFmO6wuaF+RNU1jL4sgKTKx8uNe+FakIrTpLABA=="
+        "requested": "[1.1.11, 1.1.11]",
+        "resolved": "1.1.11",
+        "contentHash": "zV9CfXGTzTV8C+5SSBF5w6wZK4zcZeDtgv0XtXkkCEx8Z4woICsD+9me6YQEYz6IKQKoRAw6VEaQMScqs0b0mQ=="
       },
       "nanoFramework.System.Device.Pwm": {
         "type": "Direct",
