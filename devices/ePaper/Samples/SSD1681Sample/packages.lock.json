@@ -28,9 +28,9 @@
       },
       "nanoFramework.System.Drawing": {
         "type": "Direct",
-        "requested": "[1.2.211, 1.2.211]",
-        "resolved": "1.2.211",
-        "contentHash": "zCVArKvsTyRyUe7w/gaHdGj6bYLPK++Ydv8ye7mACkdMQ0Tyey9oc7WlyA7EB4gKwr5KoPzGUEzDyEFaqIOUTw=="
+        "requested": "[1.2.415, 1.2.415]",
+        "resolved": "1.2.415",
+        "contentHash": "HDQt0BvTPX4AkyjO1u1Pf1ThFWLdXgZyYHX6RmfC7odOfMck70edNjBommQlttld3XBEy7rEXhWjHkML+9s0iA=="
       },
       "StyleCop.MSBuild": {
         "type": "Direct",
